@@ -93,9 +93,11 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/04/2024 08:37:11",
+  "HeaderLastSavedDateTimeUTC": "10/04/2024 08:44:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "5da5c52d-2e77-4e0a-974d-19297aded934": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/ceb23878ce224e508fd839d78bea101d\""
+  },
   "LocalDatabaseReferencesAsEmpty": true,
   "LocalResourceFileNames": {
     "logo@3x": "logo@3x.png",
@@ -117,13 +119,14 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "CustomGallerySample": 0,
-    "gallery": 2,
-    "Product": 1,
-    "ProductCollect": 5,
-    "ProductRecord": 4,
-    "Products": 6,
-    "StoreInventory": 3
+    "CustomGallerySample": 1,
+    "gallery": 3,
+    "Office365Users": 0,
+    "Product": 2,
+    "ProductCollect": 6,
+    "ProductRecord": 5,
+    "Products": 7,
+    "StoreInventory": 4
   },
   "OrderGroupControls": {
     "Group2": {
